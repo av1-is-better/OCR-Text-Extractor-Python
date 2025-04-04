@@ -38,7 +38,7 @@ Before running the script, ensure you have the following installed:
 ## Usage
 1. **Run the script**:
    ```bash
-   python script.py
+   python main.py
    ```
 2. The output file `ocr_result.docx` will be saved in the specified output directory.
 3. Press **Enter** to exit when prompted.
